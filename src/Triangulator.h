@@ -7,7 +7,6 @@
 #pragma once
 #include <vector>
 #include "../ext/glm/glm.hpp"
-#include "../ext/glm/gtc/constants.hpp"
 #include "../ext/earcut/earcut.h"
 
 using Point = glm::dvec2;

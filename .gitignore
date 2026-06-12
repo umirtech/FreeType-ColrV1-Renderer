@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+/.kotlin
+/testapp/release/output-metadata.json
+/testapp/release/testapp-release.apk
+/testapp/release/baselineProfiles/0/testapp-release.dm
+/testapp/release/baselineProfiles/1/testapp-release.dm
